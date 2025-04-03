@@ -1,2 +1,4 @@
 # repositorio-global
-Repositório para estar implementando conceitos, códigos, desafios de códigos ao meu portifólio
+Descrição do Projeto
+
+Este repositório contém esquemas conceituais. Os modelos foram elaborados com base em narrativas fornecida e apresenta as entidades, relacionamentos e atributos.
